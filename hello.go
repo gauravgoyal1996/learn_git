@@ -22,4 +22,12 @@ func main() {
 #
 no changes added to commit (use "git add" and/or "git commit -a")*/
 }
-Kolkata based Harshit Gupta is an active blogger having keen interest in writing about current affairs, technical Blogs, stories, and personal life experiences.
+Kolkata based Harshit Gupta is an active blogger having keen interest in writing about current affairs, technical Blogs, stories, and personal life experiences.How to add a remote repository to a local git repo.
+
+Subscribe:
+http://www.youtube.com/user/TwistedEq...
+
+Github Code Samples
+https://github.com/TwistedEquations
+
+Show more 
